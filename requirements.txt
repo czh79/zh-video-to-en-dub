@@ -1,0 +1,7 @@
+# 中文视频转英文配音
+faster-whisper>=1.0.0
+edge-tts>=6.1.0
+yt-dlp>=2024.1.1
+requests>=2.31.0
+
+# 系统依赖：FFmpeg（需包含 libass 以渲染 ASS 字幕）需单独安装并加入 PATH
